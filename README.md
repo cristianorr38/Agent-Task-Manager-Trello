@@ -134,12 +134,12 @@ https://trello.com/1/authorize?expiration=never&name=AppDio&scope=read,write&res
 
 ```bash
 📦 Agent-Task-Manager-Trello
- ┣ 📂 Script
+ ┣ 📂 SCRIPTS
  ┃   ┗ 📜 agent.py
- ┣ 📂 docs
+ ┣ 📂 DOCS
  ┃   ┣ 📜 Instruções_projeto.txt
  ┃   ┗ 📜 requirements.txt
- ┣ 📂 Image
+ ┣ 📂 IMAGES
  ┣ 📜 LICENSE
  ┗ 📜 README.md
 ```
