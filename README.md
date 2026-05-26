@@ -146,6 +146,24 @@ https://trello.com/1/authorize?expiration=never&name=AppDio&scope=read,write&res
 
 ---
 
+### 🖼️ Teste de Execução no VSCode
+
+*(Inserir captura de tela mostrando o agente sendo executado no VSCode)*
+
+---
+
+### 🌐 Interação com o Agente no Browser
+
+*(Inserir captura de tela mostrando a interface do agente funcionando no navegador)*
+
+---
+
+### 📋 Execução das Tarefas no Trello
+
+*(Inserir captura de tela mostrando as listas A FAZER, EM ANDAMENTO e CONCLUÍDO com ca
+
+---
+
 ## 👨‍💻 Autor
 
 **Cristiano Rodrigues Rosa**  
@@ -159,6 +177,17 @@ Analista de Sistemas focado em **Data Science, Engenharia de Dados e Machine Lea
 
 Progresso atual:  
 ███████████████████████ 100% Concluído
+
+---
+
+## 🚀 Propostas de Melhorias Futuras
+
+- 🔔 **Notificações inteligentes**: integração com e-mail ou Slack para alertar sobre prazos e mudanças nos cards.  
+- 📅 **Integração com calendário**: sincronizar tarefas com Google Calendar ou Outlook.  
+- 🤝 **Colaboração avançada**: permitir atribuição automática de tarefas a membros da equipe.  
+- 📈 **Relatórios e métricas**: dashboards com estatísticas de produtividade e progresso.  
+- 🌐 **Suporte multilíngue**: expandir para diferentes idiomas além do português.  
+- 🧩 **Plugins adicionais**: integração com outras ferramentas de produtividade como Jira, Asana ou Notion.  
 
 ---
 
