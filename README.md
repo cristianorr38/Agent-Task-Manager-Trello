@@ -42,19 +42,20 @@ Ele utiliza a **API do Trello** em conjunto com o modelo **Gemini (Google ADK Ag
 
 ## 📦 Instalação e Configuração
 
-1. **Instale as dependências**:  
+   - Instale as **dependências**
+     
    ```bash
    pip install -r requirements.txt
    ```
 
-## 📦 Exemplo de requirements.txt
-
-```bash
-   google-adk
-   py-trello
-   datetime
-   dotenv
-```
+   - Arquivo requirements.txt
+   
+   ```bash
+      google-adk
+      py-trello
+      datetime
+      dotenv
+   ```
 
 ---
 
@@ -118,13 +119,13 @@ https://trello.com/1/authorize?expiration=never&name=AppDio&scope=read,write&res
 
 ---
 
-## 4. Autorizar Aplicativo
+##& 4. Autorizar Aplicativo
 
 - Cole a URL no navegador, revise permissões e clique em **Permitir**.  
 
 ---
 
-## 5. Obter Token
+### 5. Obter Token
 
 - Copie o token exibido e guarde com segurança.  
 
