@@ -141,9 +141,16 @@ https://trello.com/1/authorize?expiration=never&name=AppDio&scope=read,write&res
  ┃   ┣ 📜 Instruções_projeto.txt
  ┃   ┗ 📜 requirements.txt
  ┣ 📂 IMAGES
+ ┃   ┗ 📜 Tarefas_Projeto_Trello.png
  ┣ 📜 LICENSE
  ┗ 📜 README.md
 ```
+
+---
+
+### 📋 Controle das tarefas do projeto no Trello
+
+<img width="1919" height="909" alt="Tarefas_Projeto_Trello" src="https://github.com/user-attachments/assets/98628fac-336e-4087-b827-8b66d2f6f821" />
 
 ---
 
