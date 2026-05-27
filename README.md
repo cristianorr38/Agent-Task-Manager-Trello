@@ -156,19 +156,21 @@ https://trello.com/1/authorize?expiration=never&name=AppDio&scope=read,write&res
 
 ### 🖼️ Teste de Execução no VSCode
 
-*(Inserir captura de tela mostrando o agente sendo executado no VSCode)*
+<img width="1436" height="846" alt="VSCode_Execucao_Agent" src="https://github.com/user-attachments/assets/f32f804c-0575-473e-b4dd-750505e477c0" />
 
 ---
 
 ### 🌐 Interação com o Agente no Browser
 
-*(Inserir captura de tela mostrando a interface do agente funcionando no navegador)*
+<img width="1439" height="850" alt="Interacao_Agent_01" src="https://github.com/user-attachments/assets/2f51775b-d391-4700-8512-e3274588db46" />
+
+<img width="1432" height="852" alt="Interacao_Agent_02" src="https://github.com/user-attachments/assets/a0fa98af-12b2-4255-a8c2-5a7a72228a65" />
 
 ---
 
 ### 📋 Execução das Tarefas no Trello
 
-*(Inserir captura de tela mostrando as listas A FAZER, EM ANDAMENTO e CONCLUÍDO com ca
+<img width="1914" height="1032" alt="Trello" src="https://github.com/user-attachments/assets/380a3c12-60e7-4f32-8237-293a0eb26d8b" />
 
 ---
 
